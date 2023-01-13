@@ -9,6 +9,7 @@ header {
 header h2 {
   margin-left: 3%;
 }
+
 nav a {
   padding: 10px 10px;
   background-color: rgb(76, 7, 59);
@@ -36,6 +37,7 @@ main div.main-images {
   display: flex;
   align-items: center;
   justify-content: space-around;
+  color: #c35aad;
 }
 main a {
   padding: 10px 10px;
